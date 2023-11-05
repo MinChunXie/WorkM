@@ -8,3 +8,4 @@
 
 ## Lab 4-3 實作人物辨識清單
 
+![image](https://github.com/MinChunXie/WorkM/assets/100060507/d276ca5a-688a-4cc1-9ed7-e7b1338d92a2)
